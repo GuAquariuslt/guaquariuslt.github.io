@@ -48,5 +48,6 @@ module.exports = {
     origin:'origin',
     branch:'master',
     cacheDir:'.cache'
-  }
+  },
+  cname:'game.aquariuslt.com'
 };
